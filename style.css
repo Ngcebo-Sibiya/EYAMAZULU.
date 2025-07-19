@@ -1,0 +1,56 @@
+body{
+  background-image:url(273896093_992400828354282_4552582314083582027_n.webp);
+  padding: 10px;
+  box-shadow: 0 30px 40px 10px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+
+  
+}
+
+.container{
+  background-color: aqua;
+  padding: 30px;
+  width: 400; height: 400px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgb(204, 87, 87);
+}
+h1{
+  text-align: center;
+  color:red;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+label{
+  display: block;
+  margin-top: 8px;
+  color: red;
+  font-weight: bold;
+}
+
+input,select{
+border: 2px solid pink;
+border-radius: 20px;
+margin-top: 8px;
+width: 100%;
+padding: 10px;
+
+}
+button{
+  background-color: blue;
+  padding: 10px;
+  margin-top: 10px;
+  border: solid 2px rgb(2, 2, 12);
+  border-radius: 8px;
+  width: 100%;
+  cursor: pointer;
+  color: red;
+  
+}
+button:hover{
+  background-color: whitesmoke;
+}
+
